@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Sarabun');
+
+body {
+    background: #F1F1F1;
+    min-width: 0;
+    color: #23282D;
+    font-family: 'Sarabun', Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sarabun', Arial, Helvetica, sans-serif;
+}
+
+button, input, textarea, select {
+    font-size: 0.75rem;
+    font-family: 'Sarabun', Arial, Helvetica, sans-serif;
+}
+
+.p-top {
+    margin-top: 80px;
+}
+
+.hero {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.hero-body {
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding: 1.5rem;
+}
+
+.hero.is-fullheight {
+    min-height: 100vh;
+}
+
+.form-login {
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 26px 24px 46px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.13);
+}

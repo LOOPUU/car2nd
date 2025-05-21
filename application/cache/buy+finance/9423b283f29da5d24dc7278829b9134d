@@ -1,0 +1,9 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:12:{s:10:"contact_id";s:1:"1";s:10:"company_th";s:71:"บริษัท POSTSICAR (ไทยแลนด์) จำกัด";s:10:"company_en";s:30:"POSTSICAR (THAILAND) CO., LTD.";s:10:"address_th";s:301:"เลขที่ 4345 อาคารภิรัชทาวเวอร์ แอท ไบเทค ชั้น 15 ยูนิตที่ 1507-1511 
+ถนนสุขุมวิท แขวงบางนาใต้ เขตบางนา 
+กรุงเทพมหานคร 10260";s:10:"address_en";s:121:"No. 4345 Piratch Tower, Attica, 15th Floor, Unit 1507-1511
+Sukhumvit Road, Bangnaew Sub-district, Bang Na
+Bangkok 10260";s:3:"tel";s:11:"02.33.88.50";s:3:"fax";s:12:"02.33.88.501";s:5:"email";s:31:"contact-postsicar@postsicar.com";s:7:"websize";s:23:"Viseskaiyang Restaurant";s:8:"facebook";s:0:"";s:10:"instragram";s:25:"http://www.instragram.com";s:7:"twitter";s:22:"http://www.twitter.com";}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":12:{s:10:"contact_id";s:1:"1";s:10:"company_th";s:71:"บริษัท POSTSICAR (ไทยแลนด์) จำกัด";s:10:"company_en";s:30:"POSTSICAR (THAILAND) CO., LTD.";s:10:"address_th";s:301:"เลขที่ 4345 อาคารภิรัชทาวเวอร์ แอท ไบเทค ชั้น 15 ยูนิตที่ 1507-1511 
+ถนนสุขุมวิท แขวงบางนาใต้ เขตบางนา 
+กรุงเทพมหานคร 10260";s:10:"address_en";s:121:"No. 4345 Piratch Tower, Attica, 15th Floor, Unit 1507-1511
+Sukhumvit Road, Bangnaew Sub-district, Bang Na
+Bangkok 10260";s:3:"tel";s:11:"02.33.88.50";s:3:"fax";s:12:"02.33.88.501";s:5:"email";s:31:"contact-postsicar@postsicar.com";s:7:"websize";s:23:"Viseskaiyang Restaurant";s:8:"facebook";s:0:"";s:10:"instragram";s:25:"http://www.instragram.com";s:7:"twitter";s:22:"http://www.twitter.com";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}

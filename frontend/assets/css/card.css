@@ -1,0 +1,179 @@
+/* Card Custom */
+
+.card-custom {
+    padding: 2.5rem;
+    border-radius: .3rem;
+    background-color: #fff;
+    -webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .1)
+}
+
+/* sc-component-id: sc-fjdhpX */
+
+@media only screen and (max-width:1023px) {
+    .card-custom {
+        padding: 1.5rem;
+    }
+}
+
+/* Card */
+
+.card-image {
+    display: block;
+    position: relative
+}
+
+.card-content {
+    background-color: none;
+    padding: 1.5rem
+}
+
+.card-footer {
+    background-color: none;
+    border-top: none;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    display: -ms-flexbox;
+    display: flex
+}
+
+.card-footer-item {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 1.5rem
+}
+
+.card-footer-item:not(:last-child) {
+    border-right: none
+}
+
+.card .media:not(:last-child) {
+    margin-bottom: 0.75rem
+}
+
+.card.is-car-product {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0 auto;
+    height: 100%;
+    /* max-width: 360px; */
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    overflow: hidden;
+    transition-duration: 172ms;
+    will-change: transform, box-shadow
+}
+
+.card.is-car-product:hover {
+    box-shadow: 0 10px 20px rgba(220, 220, 220, 0.5);
+    transform: translateY(-4px);
+    color: inherit;
+}
+
+.card.is-article {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    overflow: hidden;
+    transition-duration: 172ms;
+    will-change: transform, box-shadow;
+    height: 100%;
+}
+
+.card.is-article:hover {
+    box-shadow: 0 10px 20px rgba(220, 220, 220, 0.5);
+    transform: translateY(-4px);
+    color: inherit;
+}
+
+.media-ad {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    overflow: hidden;
+    transition-duration: 172ms;
+    will-change: transform, box-shadow
+}
+
+.media-ad:hover {
+    box-shadow: 0 10px 20px rgba(220, 220, 220, 0.5);
+    transform: translateY(-4px);
+    color: inherit;
+}
+
+/* Bank */
+
+.card-is-bank-image {
+    text-align: center!important;
+}
+
+.card-image-rounded {
+    border-radius: 290486px;
+}
+
+.card-is-bank {
+    /* height: 530px; */
+    padding: 1.5rem;
+    margin-bottom: 5px;
+    border: 1px solid #F0F0F0;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.05);
+}
+
+.card-is-bank:hover {
+    color: #FFFFFF!important;
+    border: 1px solid #FF5C00;
+    background-color: #FF5C00;
+}
+
+.card-is-bank:hover .title, .card-is-bank:hover .subtitle {
+    color: #FFFFFF!important;
+}
+
+.search-options {
+    border-radius: .15rem;
+    background-color: #fff;
+    -webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .1);
+}
+
+.search-title {
+    padding: 15px;
+    border-bottom: 1px solid #EAEAEA;
+}
+
+.search-content {
+    padding: 15px;
+}
+
+.search-brand-logo {
+    padding: 10px;
+    border: 1px solid #EAEAEA;
+}

@@ -1,0 +1,11 @@
+.button.is-orange {
+    background-color: #FF5C00;
+    border-color: #FF5C00;
+    color: #FFFFFF;
+}
+
+.button.is-orange:hover {
+    background-color: #EB5500;
+    border-color: #EB5500;
+    color: #FFFFFF;
+}

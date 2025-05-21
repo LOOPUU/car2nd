@@ -1,0 +1,177 @@
+/* Section */
+
+.recommend-cars {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.cars-all {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-about-us {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-finance {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-news {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-contact {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-maps {
+    background-image: url('../images/contact/backround_maps.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.section-contact-form {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.article-news {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-pre-register {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.section-forget-pw {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.car-detail {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.cars-recommend-list {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.finance-details {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.member-details {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.rent {
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 1088px) {
+    .recommend-cars {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .cars-all {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-about-us {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-finance {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-news {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-contact {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-contact-form {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .article-news {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-pre-register {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .section-forget-pw {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .car-detail {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .cars-recommend-list {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .finance-details {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .member-details {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+    .rent {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+}
